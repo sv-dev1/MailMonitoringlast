@@ -1,0 +1,14 @@
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\bin\Debug\PinPayments.dll
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\bin\Debug\PinPayments.pdb
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\obj\Debug\PinPayments.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\obj\Debug\PinPayments.dll
+C:\Users\pc1\Downloads\PinPayments-master\PinPayments-master\PinPayments\obj\Debug\PinPayments.pdb
+F:\Imran\PinPayment\PinPayments\bin\Debug\PinPayments.dll
+F:\Imran\PinPayment\PinPayments\bin\Debug\PinPayments.pdb
+F:\Imran\PinPayment\PinPayments\bin\Debug\Newtonsoft.Json.dll
+F:\Imran\PinPayment\PinPayments\bin\Debug\Newtonsoft.Json.xml
+F:\Imran\PinPayment\PinPayments\obj\Debug\PinPayments.dll
+F:\Imran\PinPayment\PinPayments\obj\Debug\PinPayments.pdb
+F:\Imran\PinPayment\PinPayments\obj\Debug\PinPayments.csprojResolveAssemblyReference.cache
