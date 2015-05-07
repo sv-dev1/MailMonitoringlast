@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+<div>
+    <div>
+        @*@Html.ActionLink("Buisness", "Customer", "Payment", new { @name="dsfsdf"})*@
+        <div>
+        <span>Monthly Plans</span>
+        <a href="~/business-monthly">Buisness</a>
+        <a href="~/performance-monthly">Performance</a>
+        <a href="~/enterprise-monthly">Enterprise</a>
+        </div>
+        <div>
+            <span>Annual Plans</span>
+        <a href="~/business-annual">Buisness</a>
+        <a href="~/performance-annual">Performance</a>
+        <a href="~/enterprise-annual">Enterprise</a>
+            </div>
+        </div>
+
+    </div>
